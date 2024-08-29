@@ -37,6 +37,7 @@
  * @author mvail
  */
 public interface MagicSquareInterface {
+	
 	/**
 	 * Evaluate the matrix (whether read from file or
 	 * generated) and return a boolean verdict of
